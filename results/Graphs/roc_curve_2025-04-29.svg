@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="345.6pt" viewBox="0 0 460.8 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-04-29T16:26:01.712270</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 460.8 345.6 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 44.39 306.52 
+L 446.526176 306.52 
+L 446.526176 25.44 
+L 44.39 25.44 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="48.332512" y="320.677813" transform="rotate(-0 48.332512 320.677813)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="127.182742" y="320.677813" transform="rotate(-0 127.182742 320.677813)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="206.032973" y="320.677813" transform="rotate(-0 206.032973 320.677813)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="284.883204" y="320.677813" transform="rotate(-0 284.883204 320.677813)">0.6</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="363.733434" y="320.677813" transform="rotate(-0 363.733434 320.677813)">0.8</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="442.583665" y="320.677813" transform="rotate(-0 442.583665 320.677813)">1.0</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="245.458088" y="333.823125" transform="rotate(-0 245.458088 333.823125)">False rositive rate</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_8">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: end" x="37.39" y="310.098906" transform="rotate(-0 37.39 310.098906)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_9">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: end" x="37.39" y="254.4395" transform="rotate(-0 37.39 254.4395)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_10">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: end" x="37.39" y="198.780094" transform="rotate(-0 37.39 198.780094)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_11">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: end" x="37.39" y="143.120688" transform="rotate(-0 37.39 143.120688)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_12">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: end" x="37.39" y="87.461282" transform="rotate(-0 37.39 87.461282)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_13">
+      <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: end" x="37.39" y="31.801877" transform="rotate(-0 37.39 31.801877)">1.0</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="17.5025" y="165.98" transform="rotate(-90 17.5025 165.98)">True rositive rate</text>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path d="M 48.332512 306.52 
+L 48.332512 303.764584 
+L 48.332512 276.210423 
+L 48.332512 270.69959 
+L 48.332512 259.677926 
+L 48.332512 254.167093 
+L 48.332512 251.411677 
+L 48.332512 245.900845 
+L 48.332512 240.390013 
+L 48.332512 234.87918 
+L 48.332512 226.612932 
+L 48.332512 221.1021 
+L 48.332512 212.835851 
+L 48.332512 152.216696 
+L 48.332512 141.195032 
+L 48.332512 119.151703 
+L 48.332512 113.640871 
+L 48.332512 108.130038 
+L 49.395183 108.130038 
+L 49.395183 99.86379 
+L 50.457855 99.86379 
+L 50.457855 91.597541 
+L 51.520526 91.597541 
+L 51.520526 64.04338 
+L 55.771213 64.04338 
+L 55.771213 55.777132 
+L 57.896556 55.777132 
+L 57.896556 47.510883 
+L 60.021899 47.510883 
+L 60.021899 44.755467 
+L 61.08457 44.755467 
+L 61.08457 42.000051 
+L 63.209914 42.000051 
+L 63.209914 36.489219 
+L 78.087316 36.489219 
+L 78.087316 33.733803 
+L 85.526017 33.733803 
+L 85.526017 30.978386 
+L 87.65136 30.978386 
+L 95.090061 30.978386 
+L 102.528762 30.978386 
+L 102.528762 28.22297 
+L 106.779448 28.22297 
+L 108.904791 28.22297 
+L 112.092806 28.22297 
+L 115.280821 28.22297 
+L 149.286311 28.22297 
+L 155.66234 28.22297 
+L 169.477071 28.22297 
+L 171.602414 28.22297 
+L 203.482561 28.22297 
+L 205.607904 28.22297 
+L 207.733247 28.22297 
+L 216.23462 28.22297 
+L 222.610649 28.22297 
+L 224.735993 28.22297 
+L 230.04935 28.22297 
+L 232.174694 28.22297 
+L 233.237365 28.22297 
+L 237.488051 28.22297 
+L 253.428125 28.22297 
+L 255.553468 28.22297 
+L 270.43087 28.22297 
+L 273.618885 28.22297 
+L 278.932243 28.22297 
+L 281.057586 28.22297 
+L 283.182929 28.22297 
+L 285.308272 28.22297 
+L 290.62163 28.22297 
+L 293.809645 28.22297 
+L 302.311017 28.22297 
+L 304.436361 28.22297 
+L 305.499032 28.22297 
+L 308.687047 28.22297 
+L 318.251091 28.22297 
+L 322.501777 28.22297 
+L 323.564449 28.22297 
+L 325.689792 28.22297 
+L 327.815135 28.22297 
+L 331.00315 28.22297 
+L 353.319253 28.22297 
+L 362.883297 28.22297 
+L 371.38467 28.22297 
+L 373.510013 28.22297 
+L 375.635356 28.22297 
+L 378.823371 28.22297 
+L 384.136728 28.22297 
+L 392.638101 28.22297 
+L 394.763444 28.22297 
+L 395.826116 28.22297 
+L 404.327488 28.22297 
+L 409.640846 28.22297 
+L 413.891532 28.22297 
+L 418.142219 28.22297 
+L 420.267562 28.22297 
+L 421.330233 28.22297 
+L 423.455577 28.22297 
+L 429.831606 28.22297 
+L 441.520993 28.22297 
+L 442.583665 28.22297 
+" clip-path="url(#p5568571002)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 48.332512 306.52 
+L 442.583665 28.22297 
+" clip-path="url(#p5568571002)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #ff7f0e; stroke-width: 1.5"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 44.39 306.52 
+L 44.39 25.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 44.39 306.52 
+L 446.526176 306.52 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="245.458088" y="19.44" transform="rotate(-0 245.458088 19.44)">ROC Curve</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_3">
+     <path d="M 325.894926 291.915312 
+L 335.894926 291.915312 
+L 345.894926 291.915312 
+" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: round"/>
+    </g>
+    <g id="text_16">
+     <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="353.894926" y="295.415312" transform="rotate(-0 353.894926 295.415312)">ROC (AUC = 0.99)</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5568571002">
+   <rect x="44.39" y="25.44" width="402.136176" height="281.08"/>
+  </clipPath>
+ </defs>
+</svg>
